@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1A1A1A;
+  --color-secondary: #F5F5F0;
+  --color-accent: #8B9D83;
+  --color-muted: #E5E5E0;
+
+  --font-sans: "Inter", "ui-sans-serif", "system-ui";
+
+  --radius-xl: 1rem;
+  --radius-2xl: 1.5rem;
+  --radius-3xl: 2rem;
+
+  --animate-marquee: marquee 25s linear infinite;
+
+  @keyframes marquee {
+    0% {
+      transform: translateX(0);
+    }
+
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-secondary text-primary font-sans;
+  }
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
