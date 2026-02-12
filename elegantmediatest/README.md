@@ -34,6 +34,9 @@ https://github.com/adee-tharud/elegantmediatest/tree/main
 
 https://elegantmediatest.netlify.app/
 
+## Google Drive Link
+https://drive.google.com/drive/u/0/folders/1RKf_dpgM44NaDfSiEe4Sml4SYJ3nJEoQ
+
 ## 📱 Responsive Screenshots
 
 ### Desktop View
