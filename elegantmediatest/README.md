@@ -9,8 +9,12 @@
 
 ## 📌 Project Overview
 
-This project is a **responsive Nature / Sustainability landing page** built using **React.js** and **Tailwind CSS**, inspired by a modern UI design from Dribbble.  
+This project is a **Binar landing page** built using **React.js** and **Tailwind CSS**, inspired by a modern UI design from Dribbble.  
 The focus of this project is **clean UI implementation**, **responsive layouts**, and **component-based architecture**.
+
+## Demo Link
+
+https://elegantmediatest.netlify.app/
 
 ---
 
@@ -22,6 +26,7 @@ The focus of this project is **clean UI implementation**, **responsive layouts**
 ---
 
 ## Git RepoLink 
+https://github.com/adee-tharud/elegantmediatest/tree/main
 
 ---
 
@@ -32,21 +37,41 @@ https://elegantmediatest.netlify.app/
 ## 📱 Responsive Screenshots
 
 ### Desktop View
-![Desktop View](/screenshot/d1.png)
-![Desktop View](/screenshot/D2.png)
-![Desktop View](/screenshot/d3.png)
-![Desktop View](/screenshot/d6.png)
+![Desktop View](/elegantmediatest/public/screenshot/d1.png)
+![Desktop View](/elegantmediatest/public/screenshot/D2.png)
+![Desktop View](/elegantmediatest/public/screenshot/d3.png)
+![Desktop View](/elegantmediatest/public/screenshot/d6.png)
 
 ### Tablet View
-![Tablet View](/screenshots/t1.png)
-![Tablet View](/screenshots/t2.png)
-![Tablet View](/screenshots/t3.png)
-![Tablet View](/screenshots/t4.png)
+![Tablet View](/elegantmediatest/public/screenshot/t1.png)
+![Tablet View](/elegantmediatest/public/screenshot/t2.png)
+![Tablet View](/elegantmediatest/public/screenshot/t3.png)
+![Tablet View](/elegantmediatest/public/screenshot/t4.png)
 
 ### Mobile View
-![Mobile View](/screenshots/m1.png)
-![Mobile View](/screenshots/m2.png)
-![Mobile View](/screenshots/m3.png)
-![Mobile View](/screenshots/m4.png)
-![Mobile View](/screenshots/m5.png)
+![Mobile View](/elegantmediatest/public/screenshot/m1.png)
+![Mobile View](/elegantmediatest/public/screenshot/m2.png)
+![Mobile View](/elegantmediatest/public/screenshot/m3.png)
+![Mobile View](/elegantmediatest/public/screenshot/m4.png)
+![Mobile View](/elegantmediatest/public/screenshot/m5.png)
 
+## ⚙️ How to Run the Project Locally
+
+### Prerequisites
+- Node.js (v16 or above)
+- npm or yarn
+
+### Steps
+
+```bash
+# Clone the repository
+git clone <https://github.com/adee-tharud/elegantmediatest/tree/main>
+
+# Navigate to the project
+cd elegantmediatest
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
